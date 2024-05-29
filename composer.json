@@ -1,0 +1,15 @@
+{
+    "name": "administator/base_wd18407",
+    "autoload": {
+        "psr-4": {
+            "Administator\\BaseWd18407\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "linhdaoisreal",
+            "email": "uckgudu@gmail.com"
+        }
+    ],
+    "require": {}
+}
